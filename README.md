@@ -64,6 +64,3 @@ We welcome contributions from the community. Please fork the repository and subm
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this template further to fit your project's specific details and requirements!
